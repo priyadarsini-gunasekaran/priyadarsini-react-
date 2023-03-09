@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/priyadarsini-react-/static/css/main.c6a9acc0.css",
+    "main.js": "/priyadarsini-react-/static/js/main.d08ef5c0.js",
+    "static/media/119356-development.gif": "/priyadarsini-react-/static/media/119356-development.25909523dcd7a73802de.gif",
+    "static/media/front-end-skills.png": "/priyadarsini-react-/static/media/front-end-skills.2465a5fa73ff9b54e44a.png",
+    "static/media/Dynamics Agiluty.jpg": "/priyadarsini-react-/static/media/Dynamics Agiluty.5fae296d371cc56cd98a.jpg",
+    "static/media/hey.png": "/priyadarsini-react-/static/media/hey.607241aa2d31bba7a528.png",
+    "static/media/36.jpg": "/priyadarsini-react-/static/media/36.0934b6fefa52dff31d4f.jpg",
+    "static/media/Car Galaxy.jpg": "/priyadarsini-react-/static/media/Car Galaxy.a7b7ed11daa072b234eb.jpg",
+    "static/media/counselorjyoti.jpg": "/priyadarsini-react-/static/media/counselorjyoti.03535c34c110b7ea292b.jpg",
+    "static/media/Evo Design.jpg": "/priyadarsini-react-/static/media/Evo Design.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/Pri-logo.jpg": "/priyadarsini-react-/static/media/Pri-logo.5b0dff42be8f3e6e0cc6.jpg",
+    "index.html": "/priyadarsini-react-/index.html",
+    "main.c6a9acc0.css.map": "/priyadarsini-react-/static/css/main.c6a9acc0.css.map",
+    "main.d08ef5c0.js.map": "/priyadarsini-react-/static/js/main.d08ef5c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a9acc0.css",
+    "static/js/main.d08ef5c0.js"
+  ]
+}
