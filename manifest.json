@@ -1,19 +1,15 @@
 {
-  "short_name": "Sagar Chatur",
-  "name": "Sagar Chatur - Web Front End Developer",
+  "short_name": "Priya",
+  "name": "Priya- Web Front End Developer",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
+  
     {
-      "src": "/src/Images/Sagar Chatur Logo.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/src/Images/Sagar Chatur Logo.png",
+      "src": "/src/Images/ Pri-Logo.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
