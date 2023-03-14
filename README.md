@@ -69,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # priyadarsini-react-
+Project title - priyadarsini-react-
+
+Link to the deployed version :https://priyadarsini-gunasekaran.github.io/priyadarsini-react-/ 
+
+Link to the GitHub repository : https://github.com/priyadarsini-gunasekaran/priyadarsini-react-
+
