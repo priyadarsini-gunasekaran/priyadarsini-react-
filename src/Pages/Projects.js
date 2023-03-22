@@ -21,34 +21,34 @@ export default function Projects() {
         <Col sm="4" className="Project">                 
           <img src={Project1} alt="rpersonify" /> 
           <h4 class="project-title">Password Generator</h4>
-          <a href="https://priyadarsini-gunasekaran.github.io/Module-5-Challenge/starter/index.html" target="_blank" class="project-link">Check-out GitHub Link</a>
+          <a href="https://priyadarsini-gunasekaran.github.io/Module-5-Challenge/starter/index.html" rel="noreferrer" class="project-link">Check-out GitHub Link</a>
         </Col>
         <Col sm="4" className="Project">                 
           <img src={Project2} alt="Dynamics Agilty" />
           <h4 class="project-title">Console and Finances</h4>
-          <a href="https://priyadarsini-gunasekaran.github.io/Console-Finances/starter/index.html" target="_blank" class="project-link">Check-out GitHub Link</a>
+          <a href="https://priyadarsini-gunasekaran.github.io/Console-Finances/starter/index.html" rel="noreferrer" class="project-link">Check-out GitHub Link</a>
         </Col> 
         <Col sm="4" className="Project">                
           <img src={Project5} alt="Evo Design Studio" />
           <h4 class="project-title">Code Quiz</h4>
-          <a href="https://priyadarsini-gunasekaran.github.io/Code-Quiz/starter/index.html" target="_blank" class="project-link">Check-out GitHub Link</a> 
+          <a href="https://priyadarsini-gunasekaran.github.io/Code-Quiz/starter/index.html" rel="noreferrer" class="project-link">Check-out GitHub Link</a> 
         </Col>       
         </Row>
         <Row className='pt-4'>
         <Col sm="4" className="Project">    
           <img src={Project3} alt="counselor jyoti" />
           <h4 class="project-title">Daily Planner</h4>
-          <a href="https://priyadarsini-gunasekaran.github.io/Daily-Planner/starter/index.html" target="_blank" class="project-link">Check-out GitHub Link</a>
+          <a href="https://priyadarsini-gunasekaran.github.io/Daily-Planner/starter/index.html" rel="noreferrer" class="project-link">Check-out GitHub Link</a>
       </Col>
       <Col sm="4" className="Project">                
           <img src={Project4} alt="Car Galaxy" />
           <h4 class="project-title">5 Day Weather Forecast</h4>
-          <a href="https://priyadarsini-gunasekaran.github.io/5-Day-Weather-Forecast-API/starter/index.html" target="_blank" class="project-link">Check-out GitHub Link</a>
+          <a href="https://priyadarsini-gunasekaran.github.io/5-Day-Weather-Forecast-API/starter/index.html" rel="noreferrer" class="project-link">Check-out GitHub Link</a>
       </Col>
       <Col sm="4" className="Project">                
           <img src={Project5} alt="Evo Design Studio" />
           <h4 class="project-title">ReadMe Generator</h4>
-          <a href="https://github.com/priyadarsini-gunasekaran/ReadMe-Generator" target="_blank" class="project-link">Check-out GitHub Link</a>  
+          <a href="https://github.com/priyadarsini-gunasekaran/ReadMe-Generator" rel="noreferrer" class="project-link">Check-out GitHub Link</a>  
       </Col>
         </Row>
       </Container>
