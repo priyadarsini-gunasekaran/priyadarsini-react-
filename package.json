@@ -1,7 +1,7 @@
 {
   "name": "priyadarsini-react-",
   "version": "0.1.0",
-  "homepage":" http://priyadarsinigunasekaran.github.io/priyadarsini-react-",
+  
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
